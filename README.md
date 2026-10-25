@@ -88,5 +88,8 @@ This table lists the available profiles, roles and scripts.
 | Name | Type | Summary |
 |------|------|---------|
 | [Install-Chocolatey](scripts/Install-Chocolatey.ps1) | Script | Installs Chocolatey if it is not already installed. |
+| [Firefox](roles/firefox/install.ps1) | Role | Installs the Firefox web browser. |
+| [IrfanView](roles/irfanview/install.ps1) | Role | Installs IrfanView image viewer and editor. |
+| [Notepad++](roles/notepad-plus-plus/install.ps1) | Role | Installs IrfanView image viewer and editor. |
 
 
