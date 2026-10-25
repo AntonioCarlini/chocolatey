@@ -27,6 +27,32 @@ git clone https://github.com/AntonioCarlini/chocolatey
 cd chocolatey
 ```
 
+### Allow PowerShell scripts to run
+
+Windows 10's PowerShell's default execution policy prevents PowerShell scripts from running. Before executing the installation scripts, you must either change the policy permanently for your user account or temporarily for the current PowerShell session.
+
+**Option 1: Allow scripts persistently for the current user**
+
+Run the following command in PowerShell:
+
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+This allows locally created scripts to run but requires downloaded scripts to be signed by a trusted publisher. The setting persists across PowerShell sessions and does not require administrator privileges.
+
+**Option 2: Allow scripts for the current session only**
+
+Alternatively, run:
+
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+```
+
+This applies only to the current PowerShell process and its child processes. The setting is discarded when the session closes. Run this command again in any new PowerShell session in which you want to execute PowerShell scripts.
+
+Execution policies enforced through Group Policy can override these settings.
+
 ### Install Chocolatey
 
 Chocolatey is used to install and manage application packages.
