@@ -95,7 +95,7 @@ This table lists the available profiles, roles and scripts.
 
 | Name | Type | Summary |
 |------|------|---------|
-| [Arduino IDE](roles/arduino-ide/README.md) | Role | Installs the Arduino IDE. |
+| [Arduino IDE](roles/arduino-ide/install.ps1) | Role | Installs the Arduino IDE. |
 | [Firefox](roles/firefox/install.ps1) | Role | Installs the Firefox web browser. |
 | [IrfanView](roles/irfanview/install.ps1) | Role | Installs IrfanView image viewer and editor. |
 | [Notepad++](roles/notepad-plus-plus/install.ps1) | Role | Installs Notepad++ text and source-code editor. |
