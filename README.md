@@ -105,6 +105,7 @@ This table lists the available profiles, roles and scripts.
 | [IrfanView](roles/irfanview/install.ps1) | Role | Installs IrfanView image viewer and editor. |
 | [LibreOffice](roles/libreoffice/install.ps1) | Role | Installs the LibreOffice suite. |
 | [Notepad++](roles/notepad-plus-plus/install.ps1) | Role | Installs Notepad++ text and source-code editor. |
+| [PuTTY](roles/putty/install.ps1) | Role | Installs PuTTY a free SSH, Telnet and serial client. |
 | [RustDesk](roles/rustdesk/install.ps1) | Role | Installs RustDesk remote desktop software. |
 | [Wireshark](roles/wireshark/install.ps1) | Role | Installs Wireshark network analysis tool. |
 
