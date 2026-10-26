@@ -91,5 +91,6 @@ This table lists the available profiles, roles and scripts.
 | [Firefox](roles/firefox/install.ps1) | Role | Installs the Firefox web browser. |
 | [IrfanView](roles/irfanview/install.ps1) | Role | Installs IrfanView image viewer and editor. |
 | [Notepad++](roles/notepad-plus-plus/install.ps1) | Role | Installs IrfanView image viewer and editor. |
+| [RustDesk](roles/rustdesk/install.ps1) | Role | Installs RustDesk remote desktop software. |
 
 
