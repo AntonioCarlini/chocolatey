@@ -90,7 +90,7 @@ This table lists the available profiles, roles and scripts.
 | Name | Type | Summary |
 |------|------|---------|
 | [Install-Chocolatey](scripts/Install-Chocolatey.ps1) | Script | Installs Chocolatey if it is not already installed. |
-| [Windows-10-adjust-configuration](git add scripts/Windows-10-adjust-configuration.ps1)| Script | Adjusts various Windows 10 settings and removes some cruft. |
+| [Windows-10-adjust-configuration](scripts/Windows-10-adjust-configuration.ps1)| Script | Adjusts various Windows 10 settings and removes some cruft. |
 
 ## Roles
 
