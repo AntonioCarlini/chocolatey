@@ -101,6 +101,7 @@ This table lists the available profiles, roles and scripts.
 | [IrfanView](roles/irfanview/install.ps1) | Role | Installs IrfanView image viewer and editor. |
 | [Notepad++](roles/notepad-plus-plus/install.ps1) | Role | Installs Notepad++ text and source-code editor. |
 | [RustDesk](roles/rustdesk/install.ps1) | Role | Installs RustDesk remote desktop software. |
+| [Wireshark](roles/wireshark/install.ps1) | Role | Installs Wireshark network analysis tool. |
 
 ## Profiles
 
