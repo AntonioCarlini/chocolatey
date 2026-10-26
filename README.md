@@ -97,6 +97,7 @@ This table lists the available profiles, roles and scripts.
 |------|------|---------|
 | [Arduino IDE](roles/arduino-ide/install.ps1) | Role | Installs the Arduino IDE. |
 | [Firefox](roles/firefox/install.ps1) | Role | Installs the Firefox web browser. |
+| [Foxit Reader](roles/foxit-reader/install.ps1) | Role | Installs Foxit Reader PDF viewer. |
 | [IrfanView](roles/irfanview/install.ps1) | Role | Installs IrfanView image viewer and editor. |
 | [Notepad++](roles/notepad-plus-plus/install.ps1) | Role | Installs Notepad++ text and source-code editor. |
 | [RustDesk](roles/rustdesk/install.ps1) | Role | Installs RustDesk remote desktop software. |
