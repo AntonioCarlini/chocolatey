@@ -108,6 +108,7 @@ This table lists the available profiles, roles and scripts.
 | [Poppler](roles/poppler/install.ps1) | Role | Installs the Poppler PDF tool suite. |
 | [PuTTY](roles/putty/install.ps1) | Role | Installs PuTTY a free SSH, Telnet and serial client. |
 | [RustDesk](roles/rustdesk/install.ps1) | Role | Installs RustDesk remote desktop software. |
+| [Teams](roles/teams/install.ps1) | Role | Installs Microsoft Teams collaboration software. |
 | [Wireshark](roles/wireshark/install.ps1) | Role | Installs Wireshark network analysis tool. |
 
 ## Profiles
