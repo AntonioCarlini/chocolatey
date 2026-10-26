@@ -95,6 +95,7 @@ This table lists the available profiles, roles and scripts.
 
 | Name | Type | Summary |
 |------|------|---------|
+| [7-zip](roles/7-zip/install.ps1) | Role | Installs the7-zip archive tool. |
 | [Arduino IDE](roles/arduino-ide/install.ps1) | Role | Installs the Arduino IDE. |
 | [Firefox](roles/firefox/install.ps1) | Role | Installs the Firefox web browser. |
 | [Foxit Reader](roles/foxit-reader/install.ps1) | Role | Installs Foxit Reader PDF viewer. |
