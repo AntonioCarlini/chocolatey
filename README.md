@@ -92,7 +92,7 @@ This table lists the available profiles, roles and scripts.
 | [Install-Chocolatey](scripts/Install-Chocolatey.ps1) | Script | Installs Chocolatey if it is not already installed. |
 | [Install-Machine](scripts/Install-Machine.ps1) | Script | Executes the specified profile. |
 | [install-profile-embedded-fw](scripts/install-profile-embedded-fw.ps1) | Script | Convenience script that executes the embedded-fw profile. |
-| [install-profile-generic(scripts/install-profile-generic.ps1) | Script | Convenience script that executes the generic (basic) profile. |
+| [install-profile-generic](scripts/install-profile-generic.ps1) | Script | Convenience script that executes the generic (basic) profile. |
 | [Windows-10-adjust-configuration](scripts/Windows-10-adjust-configuration.ps1)| Script | Adjusts various Windows 10 settings and removes some cruft. |
 
 ## Roles
