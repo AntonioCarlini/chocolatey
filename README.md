@@ -104,6 +104,7 @@ This table lists the available profiles, roles and scripts.
 | [Arduino IDE](roles/arduino-ide/install.ps1) | Role | Installs the Arduino IDE. |
 | [Firefox](roles/firefox/install.ps1) | Role | Installs the Firefox web browser. |
 | [Foxit Reader](roles/foxit-reader/install.ps1) | Role | Installs Foxit Reader PDF viewer. |
+| [HP P1102w Printer](roles/hp-laserjet-p1102w/install.ps1) | Role | Installs the HP P1102w printer. |
 | [KDiff3](roles/kdiff3/install.ps1) | Role | Installs the KDiff3 GUI file-difference viewer. |
 | [IrfanView](roles/irfanview/install.ps1) | Role | Installs IrfanView image viewer and editor. |
 | [LibreOffice](roles/libreoffice/install.ps1) | Role | Installs the LibreOffice suite. |
