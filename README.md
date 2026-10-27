@@ -90,6 +90,8 @@ This table lists the available profiles, roles and scripts.
 | Name | Type | Summary |
 |------|------|---------|
 | [Install-Chocolatey](scripts/Install-Chocolatey.ps1) | Script | Installs Chocolatey if it is not already installed. |
+| [Install-Machine](scripts/Install-Machine.ps1) | Script | Executes the specified profile. |
+| [install-profile-embedded-fw](scripts/install-profile-embedded-fw.ps1) | Script | Convenience script that executes the embedded-fw profile. |
 | [Windows-10-adjust-configuration](scripts/Windows-10-adjust-configuration.ps1)| Script | Adjusts various Windows 10 settings and removes some cruft. |
 
 ## Roles
@@ -114,6 +116,8 @@ This table lists the available profiles, roles and scripts.
 
 ## Profiles
 
-<!-- Add machine profiles here when available. -->
+| Name | Type | Summary |
+|------|------|---------|
+| [embedded-fw](profiles/embedded-fw.psd1) | Profile | Installs packages needed for embedded firmware development. |
 
 
