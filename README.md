@@ -115,6 +115,7 @@ This table lists the available profiles, roles and scripts.
 | [Python](roles/python/install.ps1) | Role | Installs the Python programming language. |
 | [RustDesk](roles/rustdesk/install.ps1) | Role | Installs RustDesk remote desktop software. |
 | [Teams](roles/teams/install.ps1) | Role | Installs Microsoft Teams collaboration software. |
+| [TortoiseGit](roles/tortoisegit/install.ps1) | Role | Installs TortoiseGit, a graphical git interface. |
 | [Wireshark](roles/wireshark/install.ps1) | Role | Installs Wireshark network analysis tool. |
 
 ## Profiles
